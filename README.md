@@ -1,11 +1,9 @@
 # self-adaptive-DRL-in-mesh-networks
 
-
---------------------------READ ME---------------------------------
-
 The system controls the flow of head nodes in a cluster-based wireless mesh network. 
 
 ----------------------------INPUT---------------------------------
+
 Before running the code, you need set up the following parameters:
 
 1. 
@@ -32,6 +30,7 @@ flag_run_benchmark: 0=DRL solution; 1=benchmark solution.
 The parameters to set up the DQN model and self-adaptive model are in the code with self-explain variable names.
 
 ---------------------------OUTPUT---------------------------------
+
 After running the code, the output files are:
 
 1. 
